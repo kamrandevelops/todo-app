@@ -1,2 +1,3 @@
-# todo-app
+# Todo App
 TaskMaster is a clean and efficient todo list app for staying organized.
+Clone Repo and Enjoy......
